@@ -1,3 +1,3 @@
 # python-playground
-this respository show cases fundamentals of python 
+this respository show cases fundamentals of python <br>
 Author = Yogesh 
