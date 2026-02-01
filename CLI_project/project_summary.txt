@@ -1,0 +1,12 @@
+in phase 1 we can see the diffrence between raw data and sampled data
+where raw data is not normal in nature but sampled data its mean plot is normal
+
+in phase 2 we can see as n increases the normal curve becomes more stable and smooth 
+it shows adding more data increases the normality and there is no rule for sample size it even if size is 
+small CLT still holds
+
+phase 3 we can see how exactly standard deviation of sample mean and standard error working thier difference
+standard error talks about uncertainty and says how much unit data varies if repeated sample is took
+and standard deviation is as usual tells about the spread 
+
+phase 4 we can see CLT holds even if the data is heavyly skewed
