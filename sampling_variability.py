@@ -25,7 +25,7 @@ for i in range(i_n):
 print("n = 2 so std dev of means:",np.std(mean_s1))
 print("n = 8 so std dev of means:",np.std(mean_s2))
 
-plt.figure(figsize=(10,5))
+plt.figure(figsize=(5,3))
 plt.hist(mean_s1,bins=20,alpha=0.6,label="samll n = 2")
 plt.hist(mean_s2,bins=20,alpha=0.6,label="large n = 8")
 plt.xlabel("sample mean")
